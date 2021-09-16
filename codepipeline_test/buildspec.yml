@@ -10,7 +10,7 @@ version: 0.2
 phases: 
   install:
     runtime-versions:
-        docker: 21 
+        docker: 19 
   pre_build: 
     commands: 
      # update the following line with your own region
