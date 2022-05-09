@@ -6,7 +6,7 @@ Jenkins和CodePipeline的实验步骤中，多采用了script和Cloudformation�
 
 下图是Devops的常见流程。
 
-[pipeline](pipeline.png)
+![pipeline](pipeline.png)
 
 下面是Devops Workshop的实验步骤。
 
