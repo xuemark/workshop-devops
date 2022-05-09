@@ -14,7 +14,7 @@ Jenkins和CodePipeline的实验步骤中，多采用了script和Cloudformation�
 
 ## 2. [Set up EKS Cluster](02.setup-eks-cluster.md)
 
-## 3. [Install and Configure Jenkins, Build Jenkins CI pipeline](03.install-config-jenkins.md)
+## 3. [Install and Configure Jenkins](03.install-config-jenkins.md)
 
 ## 4. [Jenkins CI/CD pipeline](04.jenkins-cicd.md)
 
